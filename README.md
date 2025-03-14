@@ -1,0 +1,2 @@
+## Password Validator
+Run the program; then you can enter a password. The program will determine if the password meets all requirements. If so, it will print "Password is OK!", otherwise it will print out each rule that the password is not in compliance with.
